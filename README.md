@@ -1,15 +1,15 @@
 # Portfolio
 
-This is a portfolio of self directed projects. The idea is to display what I can do with Python with respect to data analysis and data science.  
+This is a portfolio of self-directed projects. The portfolio showcases my data analysis skills.  
 
 
 ## Languages of India
-Using Geo data and Census data, explored the most popular languages in India by region.
+Using geo and census data, the most popular languages in India were explored by region.
 
 
 ## Imdb vs Rotten Tomatoes
-Which website is more critical toward movies, Imdb or Rotten Tomatoes? A deep dive in to how the scores from the two websites compare. 
+Which website is more critical of movies, IMDB or Rotten Tomatoes? A deep dive into how the scores from the two websites compare. 
 
 
-
-
+## Most Common Languages of the World
+Here I found the most popular languages worldwide and displayed them in an interactive geographical plot. 
