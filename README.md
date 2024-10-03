@@ -13,3 +13,8 @@ Which website is more critical of movies, IMDB or Rotten Tomatoes? A deep dive i
 
 ## Most Common Languages of the World
 Here I found the most popular languages worldwide and displayed them in an interactive geographical plot. 
+
+
+## Cover Letter Generator
+I am utilizing OpenAI's API to generate cover letters, aiming to streamline the process as I apply for jobs.  
+
