@@ -11,3 +11,4 @@ dependencies:
   - appmode
   - xlrd
   - descartes
+  - openpyxl
