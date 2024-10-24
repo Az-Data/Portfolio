@@ -14,6 +14,8 @@ Which website is more critical of movies, IMDB or Rotten Tomatoes? A deep dive i
 
 
 ## Most Common Languages of the World
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Az-Data/Portfolio/HEAD?labpath=Most+Common+Languages+of+the+World.ipynb)
+
 Here I found the most popular languages worldwide and displayed them in an interactive geographical plot. 
 
 
