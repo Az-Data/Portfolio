@@ -22,3 +22,7 @@ Here I found the most popular languages worldwide and displayed them in an inter
 ## Cover Letter Generator
 I am utilizing OpenAI's API to generate cover letters, aiming to streamline the process as I apply for jobs.  
 
+
+## Note Cards to Digital Notes
+I have a lot of physical cue cards that I need to place in my obsidian notes. So I created a script that uses Google's Vision API and OpenAI's API to extract the text from the pictures of my Note cards and place the text in a text file. 
+
