@@ -1,5 +1,5 @@
 
-Hi 👋 My name is Aaron Fernandes
+Aaron Fernandes
 ================================
 
 Data Analyst
