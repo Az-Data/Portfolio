@@ -21,14 +21,14 @@ This is a portfolio of self-directed projects. This portfolio showcases my data 
 Using geo and census data, the most popular languages in India were explored by region.
 
 
-### Imdb vs Rotten Tomatoes
+### IMDB vs Rotten Tomatoes
 Which website is more critical of movies, IMDB or Rotten Tomatoes? A deep dive into how the scores from the two websites compare. 
 
 
 ### Most Common Languages of the World
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Az-Data/Portfolio/HEAD?labpath=Most+Common+Languages+of+the+World.ipynb)
 
-Here I found the most popular languages worldwide and displayed them in an interactive geographical plot. 
+I found and displayed the most popular languages worldwide in an interactive geographical plot. 
 
 
 ### Cover Letter Generator
@@ -37,6 +37,12 @@ I am utilizing OpenAI's API to generate cover letters, aiming to streamline the 
 
 ### Note Cards to Digital Notes
 I have a lot of physical cue cards that I need to place in my obsidian notes. So I created a script that uses Google's Vision API and OpenAI's API to extract the text from the pictures of my Note cards and place the text in a text file. 
+
+
+### Book Summarizer
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Az-Data/Portfolio/blob/master/Book%20Summariser.ipynb)
+
+I am part of a book club, and I wanted the ability to go back and review books I've already read and question the text.  
 
 
 ## My Skills
