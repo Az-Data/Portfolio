@@ -59,3 +59,4 @@ I have a lot of physical cue cards that I need to place in my obsidian notes. So
 <a href="http://www.github.com/Az-Data"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Az-Data&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
+Created with help of https://www.profileme.dev/
