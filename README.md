@@ -12,30 +12,36 @@ I have been in the Data Analytics space for 3+ years. I enjoy problem-solving an
 
 # Portfolio
 
-This is a portfolio of self-directed projects. This portfolio showcases my data analysis skills. A couple of the visualisations are interactive, and have binder links that allow you to run the notebook. However, It takes 15 minutes to spin up the binder instance.  
+This is a portfolio of self-directed projects. This portfolio showcases my data analysis skills. A couple of the notebooks have interactive visualisations (Languages of India & Most Common Languages of the World).  
 
 
 ### Languages of India 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Az-Data/Portfolio/HEAD?labpath=Languages+of+India.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Az-Data/Portfolio/blob/master/Languages%20of%20India.ipynb)
 
 Using geo and census data, the most popular languages in India were explored by region.
 
 
-### IMDB vs Rotten Tomatoes
-Which website is more critical of movies, IMDB or Rotten Tomatoes? A deep dive into how the scores from the two websites compare. 
+### Tomatometer vs Audience score
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Az-Data/Portfolio/blob/master/Rotten%20tomatoes%20-%20Tomatometer%20vs%20Audience%20score.ipynb)
+
+Rotten Tomatoes aggregates professional critics' and audience reviews, providing both a "Tomatometer" score and an "Audience Score" (now known as the Popcornometer), and the dataset will be used to visualize and compare these scores through histograms, a T-test for statistical significance, and relative differences for each movie.
 
 
 ### Most Common Languages of the World
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Az-Data/Portfolio/HEAD?labpath=Most+Common+Languages+of+the+World.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://mybinder.org/v2/gh/Az-Data/Portfolio/HEAD?labpath=Most+Common+Languages+of+the+World.ipynb](https://colab.research.google.com/github/Az-Data/Portfolio/blob/master/Most%20Common%20Languages%20of%20the%20World.ipynb))
 
 I found and displayed the most popular languages worldwide in an interactive geographical plot. 
 
 
 ### Cover Letter Generator
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/Az-Data/Portfolio/blob/master/Languages%20of%20India.ipynb](https://colab.research.google.com/github/Az-Data/Portfolio/blob/master/Cover%20Letter%20Generator.ipynb))
+
 I am utilizing OpenAI's API to generate cover letters, aiming to streamline the process as I apply for jobs.  
 
 
 ### Note Cards to Digital Notes
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Az-Data/Portfolio/blob/master/Note%20Cards%20to%20Digital%20Notes.ipynb)
+
 I have a lot of physical cue cards that I need to place in my obsidian notes. So I created a script that uses Google's Vision API and OpenAI's API to extract the text from the pictures of my Note cards and place the text in a text file. 
 
 
@@ -65,4 +71,4 @@ I am part of a book club, and I wanted the ability to go back and review books I
 <a href="http://www.github.com/Az-Data"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Az-Data&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-Created with help of https://www.profileme.dev/
+Created with the help of https://www.profileme.dev/
