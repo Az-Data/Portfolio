@@ -28,13 +28,13 @@ Rotten Tomatoes aggregates professional critics' and audience reviews, providing
 
 
 ### Most Common Languages of the World
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://mybinder.org/v2/gh/Az-Data/Portfolio/HEAD?labpath=Most+Common+Languages+of+the+World.ipynb](https://colab.research.google.com/github/Az-Data/Portfolio/blob/master/Most%20Common%20Languages%20of%20the%20World.ipynb))
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Az-Data/Portfolio/blob/master/Most%20Common%20Languages%20of%20the%20World.ipynb)
 
 I found and displayed the most popular languages worldwide in an interactive geographical plot. 
 
 
 ### Cover Letter Generator
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/Az-Data/Portfolio/blob/master/Languages%20of%20India.ipynb](https://colab.research.google.com/github/Az-Data/Portfolio/blob/master/Cover%20Letter%20Generator.ipynb))
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Az-Data/Portfolio/blob/master/Cover%20Letter%20Generator.ipynb)
 
 I am utilizing OpenAI's API to generate cover letters, aiming to streamline the process as I apply for jobs.  
 
